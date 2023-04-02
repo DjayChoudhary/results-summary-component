@@ -1,3 +1,19 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+article {
+    background-color: #303b5a;
+    color: #7857ff;
+    color: #2e2be9;
+    /* - Light slate blue (background): hsl(252, 100%, 67%)
+- Light royal blue (background): hsl(241, 81%, 54%) */
+
+    color: #4e21ca;
+    color: #2421ca00;
+    /* - Violet blue (circle): hsla(256, 72%, 46%, 1)
+- Persian blue (circle): hsla(241, 72%, 46%, 0) */
+
+    color: #c8c7ff;
+    color: #ebf1ff;
+}
